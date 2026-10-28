@@ -12,7 +12,7 @@ WebEye is a Python-based website reconnaissance and basic security-auditing tool
 <p align="center">
   <img src="screenshots/webeye-banner.png"
        alt="WebEyer"
-       width="800">
+       width="600">
 </p>
 
 ## ✨ Features
